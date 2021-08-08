@@ -1,0 +1,8 @@
+{
+  "short_name": "React Remove Comments App",
+  "name": "React Remove Comments App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
